@@ -8,11 +8,19 @@ Objectif : Utiliser les opérateurs spéciaux is, is not, in, et not in.
 ou l’absence de sous-chaînes.
 """
 
-a = 25
-b = 25
-c = "Bouchta"
-d = "chta"
-print(a is b)        
-print(c is d)         
-print("a" in c) 
-print(d not in c) 
+a = 10
+b = 10
+
+print("a is b : ", a is b)
+
+print("a is not None : ", a is not None)
+
+c = "Hello"
+d = "Hello World"
+
+print("c is d : ", c is d)
+
+print("c is not d : ", c is not d)
+
+print(c in d)
+
