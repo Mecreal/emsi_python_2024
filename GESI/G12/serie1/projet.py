@@ -11,16 +11,17 @@ op = int(input("""entrez le nombre de l'opération:
 3 : multiplication
 4 : division
 5 : modulo
-6 : puissance"""))
+6 : puissance
+"""))
 
-if op == 1:print(f"{nbr_1} + {nbr_2} = {nbr_1 + nbr_2}")
+if op == 1: print(f"{nbr_1} + {nbr_2} = {nbr_1 + nbr_2:.0f}")
 elif op == 2: print(f"{nbr_1} - {nbr_2} = {nbr_1 - nbr_2}")
 elif op == 3: print(f"{nbr_1} * {nbr_2} = {nbr_1 * nbr_2}")
 elif op == 4:
-    if nbr_2:
-        print(f"{nbr_1} / {nbr_2} = {nbr_1 / nbr_2}")
+    if not (nbr_2 == 0):
+        print(f"{nbr_1} / {nbr_2} = {nbr_1 / nbr_2:.2f}")
     else:
         print("erreur: division par Zero")
-elif op == 5: print(f"{nbr_1} % {nbr_2} = {nbr_1 % nbr_2}")
+elif op == 5: print(f"{nbr_1} % {nbr_2} = {nbr_1 % nbr_2 }")
 elif op == 6: print(f"{nbr_1} ** {nbr_2} = {nbr_1 ** nbr_2}")
 else: print("opération n'existe pas")

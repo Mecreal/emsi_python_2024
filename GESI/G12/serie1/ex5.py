@@ -15,4 +15,5 @@ d = "chta"
 print(a is b)        
 print(c is d)         
 print("a" in c) 
+print(d in c) 
 print(d not in c) 
