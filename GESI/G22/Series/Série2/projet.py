@@ -19,9 +19,9 @@ from random import randint
 print("Bienvenue dans le jeu de devine le nombre")
 
 
+while True:
+    nbr_tentatives = 10
 
-nbr_tentatives = 10
-while 1:
     nbr_secret = randint(1,100)
     while nbr_tentatives > 0:
         nbr_tentatives -= 1
@@ -34,9 +34,11 @@ while 1:
             print("Le nombre secret est plus grand")
         else:
             print("Le nombre secret est plus petit")
-        if nbr_tentatives == 0:
-            print(f"Vous avez épuisé toutes vos tentatives. Le nombre secret était {nbr_secret}")
+    else:
+        print(f"Vous avez épuisé toutes vos tentatives. Le nombre secret était {nbr_secret}")
+    print("Fin du tour")
     continuee = input("Voulez-vous rejouer? (O/N): ")
-    if continuee == "N" or continuee == "n":
+    if continuee == "n" or continuee == "N":
         break
-print("Fin du jeu")
+
+print("Merci d'avoir joué")
