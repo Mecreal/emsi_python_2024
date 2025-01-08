@@ -10,4 +10,5 @@ def fib(n):
     else:
         return fib(n-1) + fib(n-2)
     
-print(f"fib(5) = {fib(10)}") # 5
+for i in range(1,11):
+    print(fib(i))
