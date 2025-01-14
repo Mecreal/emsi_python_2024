@@ -23,7 +23,7 @@ print(description_circuit(parametres_circuit2)) # affiche la description du circ
 
 # EX5
 
-# parametres_circuit.append("DC") # ajoute DC à la liste
+# parametres_circuit.append("DC") # ajoute DC à la liste, Error
 
 
 parametres_circuit_modifie = list(parametres_circuit) # convertit le tuple en liste

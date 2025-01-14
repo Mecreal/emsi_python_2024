@@ -1,0 +1,5 @@
+[
+    {"Nom": "Jean", "Prenom": "Dupont", "Age": 25, "Classe": "Terminale S", "Notes": [18, 15, 12, 10, 9]},
+    {"Nom": "Marie", "Prenom": "Curie", "Age": 22, "Classe": "Terminale S", "Notes": [14, 16, 17, 10, 12]},
+    {"Nom": "Albert", "Prenom": "Einstein", "Age": 24, "Classe": "Terminale S", "Notes": [15, 18, 19, 11, 13]}
+]
