@@ -1,0 +1,18 @@
+[
+    {
+        "ID": 1,
+        "Nom": "Kilani",
+        "Prenom": "Aymane",
+        "Age": 20,
+        "Classe": "GI",
+        "Email": "kilani.aymane@emsi-edu.ma"
+    },
+    {
+        "ID": 2,
+        "Nom": "Bourja",
+        "Prenom": "Ilias",
+        "Age": 22,
+        "Classe": "GI",
+        "Email": "bourja.ilias@emsi-edu.ma"
+    }
+]

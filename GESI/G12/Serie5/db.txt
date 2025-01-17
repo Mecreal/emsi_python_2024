@@ -1,0 +1,2 @@
+{'ID': 1, 'Nom': 'Jean', 'Prenom': 'Dupont', 'Age': 21, 'Notes': {'Math': 15, 'Physique': 15, 'Anglais': 10}, 'Classe': 'GESI', 'Adresse': '13 Rue Soumaya Derb Ghalef', 'Ville': 'Casablanca'}
+{'ID': 2, 'Nom': 'Jeanne', 'Prenom': 'Dupont', 'Age': 20, 'Notes': {'Math': 12, 'Physique': 15, 'Anglais': 10}, 'Classe': 'GESI', 'Adresse': '12 rue de la paix', 'Ville': 'Paris'}

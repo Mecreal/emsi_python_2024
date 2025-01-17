@@ -1,0 +1,18 @@
+[
+    {
+        "ID": 1,
+        "Nom": "Jean",
+        "Prenom": "Dupont",
+        "Age": 25,
+        "Classe": "Terminale S",
+        "Email": "Jean.Dupont@emsi-edu.ma"
+    },
+    {
+        "ID": 3,
+        "Nom": "Jean",
+        "Prenom": "Dupont",
+        "Age": 25,
+        "Classe": "Terminale S",
+        "Email": ""
+    }
+]

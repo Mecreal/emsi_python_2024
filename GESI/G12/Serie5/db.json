@@ -1,0 +1,56 @@
+[
+    {
+        "ID": 1,
+        "Nom": "Jean",
+        "Prenom": "Dupont",
+        "Age": 20,
+        "Notes": {
+            "Math": 15,
+            "Physique": 15,
+            "Anglais": 10
+        },
+        "Classe": "GESI"
+    },
+    {
+        "ID": 2,
+        "Nom": "Jeanne",
+        "Prenom": "Dupont",
+        "Age": 20,
+        "Notes": {
+            "Math": 12,
+            "Physique": 15,
+            "Anglais": 10
+        },
+        "Classe": "GESI",
+        "Adresse": "12 rue de la paix",
+        "Ville": "Paris"
+    },
+    {
+        "ID": 3,
+        "Nom": "Marsal",
+        "Prenom": "Oussama",
+        "Age": 21,
+        "Notes": {
+            "Math": 19,
+            "Physique": 17,
+            "Anglais": 12
+        },
+        "Classe": "Gesi1",
+        "Adresse": "IDK",
+        "Ville": "Casa"
+    },
+{
+    "ID": 4,
+    "Nom": "Ha",
+    "Prenom": "Dupont",
+    "Age": 20,
+    "Notes": {
+        "Math": 12,
+        "Physique": 15,
+        "Anglais": 10
+    },
+    "Classe": "GESI",
+    "Adresse": "12 rue de la paix",
+    "Ville": "Paris"
+}
+]

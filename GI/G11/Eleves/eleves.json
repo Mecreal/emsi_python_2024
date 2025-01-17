@@ -1,0 +1,18 @@
+[
+    {
+        "ID": 2,
+        "Nom": "Paul",
+        "Prenom": "Durand",
+        "Age": 24,
+        "Classe": "Terminale S",
+        "email": "paul.durand@emsi-edu.ma"
+    },
+    {
+        "ID": 3,
+        "Nom": "ABDELLAOUI",
+        "Prenom": "BOUTAINA",
+        "Age": 20,
+        "Classe": "GI11",
+        "Email": "abdellaoui.boutaina@emsi-edu.ma"
+    }
+]
